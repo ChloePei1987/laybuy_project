@@ -21,6 +21,6 @@ it ('chooseitem',function(){
     }
 
     // go to shopping bag
-    itempage.clickbutton('.site-header__cart > .icon') 
+    itempage.clickbutton('.site-header__cart > .icon')  
     
 })
